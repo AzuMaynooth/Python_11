@@ -1,0 +1,2 @@
+Shipment ID,Item Name,Shipment Date,Destination,Shipping Cost
+1,queso,09/01/2025 14:54:26,Madrid,2

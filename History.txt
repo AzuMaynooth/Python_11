@@ -1,3 +1,5 @@
 Date,Operation
-26/12/2024 18:16:09,Purchase made
-26/12/2024 18:16:09,Purchase made
+09/01/2025 14:53:52,Purchase,"Item: patatas, Quantity: 30, Total Cost: 600.0€"
+09/01/2025 14:54:00,Sale,"Item: patatas, Quantity: 20, Total Sale: 400.0€"
+09/01/2025 14:54:11,Purchase,"Item: queso, Quantity: 30, Total Cost: 60.0€"
+09/01/2025 14:54:26,Shipping Cost,"Item: queso, Quantity: 20, Shipping Cost: 2€"
